@@ -4,7 +4,7 @@
 
 使用<a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">繁體中文手寫字集</a>實現卷積神經網路手寫識別。
 
-Applied Traditional-Chinese-Handwriting-Dataset to realize handwriting recognition by CNN model.
+Applied <a href="https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset">Traditional-Chinese-Handwriting-Dataset</a> to realize handwriting recognition by CNN model.
 
 ## Contributor 
 Author: Dr. Wu Yen-Lin (彥霖博士)
